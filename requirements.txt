@@ -15,7 +15,6 @@ backcall==0.2.0
 backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.2
 blinker==1.5
-bzt==1.16.19
 cachetools==5.2.0
 certifi==2022.9.24
 cffi==1.15.1
@@ -28,8 +27,6 @@ colorlog==6.7.0
 commonmark==0.9.1
 ConfigArgParse==1.5.3
 coverage==6.5.0
-cryptowatch==0.0.11
-cryptowatch-sdk==0.0.16
 cssselect==1.2.0
 cycler==0.11.0
 dash==2.7.0
