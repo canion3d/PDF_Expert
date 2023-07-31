@@ -17,7 +17,6 @@ beautifulsoup4==4.11.2
 blinker==1.5
 bzt==1.16.19
 cachetools==5.2.0
-carla==0.9.13
 certifi==2022.9.24
 cffi==1.15.1
 chardet==4.0.0
