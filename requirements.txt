@@ -75,6 +75,7 @@ jupyter_core==4.11.2
 jupyterlab-widgets==3.0.3
 kiwisolver==1.4.4
 lesscpy==0.15.1
+langchain==0.0.27
 lxml==4.9.1
 Mako==1.2.4
 MarkupSafe==2.1.1
